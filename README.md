@@ -2,3 +2,4 @@
 # Nicolas Freitas Noli
 ## Pensamento computacional
 - Paulo Leminski
+- ** Professora Direlle ** 
